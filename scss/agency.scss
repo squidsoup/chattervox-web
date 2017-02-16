@@ -180,15 +180,15 @@ header {
         .intro-lead-in {
             @include serif-font;
             font-style: italic;
-            font-size: 22px;
+            font-size: 42px;
             line-height: 22px;
             margin-bottom: 25px;
         }
         .intro-heading {
             @include heading-font;
             font-weight: 700;
-            font-size: 50px;
-            line-height: 50px;
+            font-size: 30px;
+            line-height: 30px;
             margin-bottom: 25px;
         }
     }
@@ -202,15 +202,15 @@ header {
             .intro-lead-in {
                 @include serif-font;
                 font-style: italic;
-                font-size: 40px;
+                font-size: 60px;
                 line-height: 40px;
                 margin-bottom: 25px;
             }
             .intro-heading {
                 @include heading-font;
                 font-weight: 700;
-                font-size: 75px;
-                line-height: 75px;
+                font-size: 35px;
+                line-height: 35px;
                 margin-bottom: 50px;
             }
         }
